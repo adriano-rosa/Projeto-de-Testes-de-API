@@ -1,0 +1,22 @@
+{
+  "name": "avaliacao-qa-texo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy:run": "cypress run --config video=false --env allure=true",
+    "allure:generate": "allure generate allure-results",
+    "allure:open": "allure open allure-report",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "open": "cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.3.1"
+  },
+  "devDependencies": {
+    "@shelex/cypress-allure-plugin": "^2.24.0"
+  }
+}

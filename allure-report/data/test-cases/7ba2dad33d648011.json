@@ -1,0 +1,79 @@
+{
+  "uid" : "7ba2dad33d648011",
+  "name" : "Realizar uma requisição do tipo DELETE",
+  "fullName" : "Realizar uma requisição do tipo DELETE",
+  "historyId" : "9ae3d400208d0e5994a6484eb0411229",
+  "time" : {
+    "start" : 1643613184825,
+    "stop" : 1643613185610,
+    "duration" : 785
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "GET 200 https://jsonplaceholder.typicode.com/users/",
+      "time" : {
+        "start" : 1643613184852,
+        "stop" : 1643613185151,
+        "duration" : 299
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "DELETE 200 https://jsonplaceholder.typicode.com/users/1",
+      "time" : {
+        "start" : 1643613185153,
+        "stop" : 1643613185601,
+        "duration" : 448
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 2,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "DELETE User"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7ba2dad33d648011.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,51 @@
+[ {
+  "uid" : "aa46b25e507fe35f",
+  "name" : "Realizar uma requisição do tipo GET",
+  "time" : {
+    "start" : 1643613192423,
+    "stop" : 1643613192757,
+    "duration" : 334
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7ba2dad33d648011",
+  "name" : "Realizar uma requisição do tipo DELETE",
+  "time" : {
+    "start" : 1643613184825,
+    "stop" : 1643613185610,
+    "duration" : 785
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5a701b7b03b8b43b",
+  "name" : "Realizar uma requisição do tipo GET",
+  "time" : {
+    "start" : 1643613141363,
+    "stop" : 1643613142565,
+    "duration" : 1202
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8cd82ce802d5b420",
+  "name" : "Realizar uma requisição do tipo PUT",
+  "time" : {
+    "start" : 1643613207297,
+    "stop" : 1643613208131,
+    "duration" : 834
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1738523fbddcde37",
+  "name" : "Realizar uma requisição do tipo POST",
+  "time" : {
+    "start" : 1643613199415,
+    "stop" : 1643613199927,
+    "duration" : 512
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

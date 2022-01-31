@@ -1,0 +1,110 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "GET Comments",
+    "children" : [ {
+      "name" : "Realizar uma requisição do tipo GET",
+      "uid" : "5a701b7b03b8b43b",
+      "parentUid" : "9c6610f65c39f2376829c920d5d3a8ef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643613141363,
+        "stop" : 1643613142565,
+        "duration" : 1202
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "9c6610f65c39f2376829c920d5d3a8ef"
+  }, {
+    "name" : "DELETE User",
+    "children" : [ {
+      "name" : "Realizar uma requisição do tipo DELETE",
+      "uid" : "7ba2dad33d648011",
+      "parentUid" : "de7848c6c94cd3564e5c891837ddf4af",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643613184825,
+        "stop" : 1643613185610,
+        "duration" : 785
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "de7848c6c94cd3564e5c891837ddf4af"
+  }, {
+    "name" : "GET Users",
+    "children" : [ {
+      "name" : "Realizar uma requisição do tipo GET",
+      "uid" : "aa46b25e507fe35f",
+      "parentUid" : "e1839e9ec6d181ad3d8c83e6d74cf2ab",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643613192423,
+        "stop" : 1643613192757,
+        "duration" : 334
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "e1839e9ec6d181ad3d8c83e6d74cf2ab"
+  }, {
+    "name" : "POST Users",
+    "children" : [ {
+      "name" : "Realizar uma requisição do tipo POST",
+      "uid" : "1738523fbddcde37",
+      "parentUid" : "564d3fd3330f4ec6baafe90f59a1923a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643613199415,
+        "stop" : 1643613199927,
+        "duration" : 512
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "564d3fd3330f4ec6baafe90f59a1923a"
+  }, {
+    "name" : "PUT User",
+    "children" : [ {
+      "name" : "Realizar uma requisição do tipo PUT",
+      "uid" : "8cd82ce802d5b420",
+      "parentUid" : "45d8b0ba25c2f2f6f531394e61fe5b25",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643613207297,
+        "stop" : 1643613208131,
+        "duration" : 834
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "45d8b0ba25c2f2f6f531394e61fe5b25"
+  } ]
+}

@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Jan 31 04:12:21 BRT 2022","Mon Jan 31 04:12:22 BRT 2022","1202","","GET Comments","","","","Realizar uma requisição do tipo GET",""
+"passed","Mon Jan 31 04:13:27 BRT 2022","Mon Jan 31 04:13:28 BRT 2022","834","","PUT User","","","","Realizar uma requisição do tipo PUT",""
+"passed","Mon Jan 31 04:13:04 BRT 2022","Mon Jan 31 04:13:05 BRT 2022","785","","DELETE User","","","","Realizar uma requisição do tipo DELETE",""
+"passed","Mon Jan 31 04:13:12 BRT 2022","Mon Jan 31 04:13:12 BRT 2022","334","","GET Users","","","","Realizar uma requisição do tipo GET",""
+"passed","Mon Jan 31 04:13:19 BRT 2022","Mon Jan 31 04:13:19 BRT 2022","512","","POST Users","","","","Realizar uma requisição do tipo POST",""

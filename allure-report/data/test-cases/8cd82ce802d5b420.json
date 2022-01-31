@@ -1,0 +1,79 @@
+{
+  "uid" : "8cd82ce802d5b420",
+  "name" : "Realizar uma requisição do tipo PUT",
+  "fullName" : "Realizar uma requisição do tipo PUT",
+  "historyId" : "37a194bb97d48fc6ff36847d47067217",
+  "time" : {
+    "start" : 1643613207297,
+    "stop" : 1643613208131,
+    "duration" : 834
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "GET 200 https://jsonplaceholder.typicode.com/users/",
+      "time" : {
+        "start" : 1643613207322,
+        "stop" : 1643613207604,
+        "duration" : 282
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "PUT 200 https://jsonplaceholder.typicode.com/users/5",
+      "time" : {
+        "start" : 1643613207608,
+        "stop" : 1643613208096,
+        "duration" : 488
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 2,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "PUT User"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8cd82ce802d5b420.json",
+  "parameterValues" : [ ]
+}

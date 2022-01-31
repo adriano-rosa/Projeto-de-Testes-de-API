@@ -1,0 +1,23 @@
+{
+  "id": 5,
+  "name": "Adriano",
+  "username": "Rosa",
+  "email": "adriano@testeapi.com",
+  "address": {
+    "street": "João Vogelsanger",
+    "suite": "Apt. 100",
+    "city": "Joinville",
+    "zipcode": "89218-080",
+    "geo": {
+      "lat": "-77.7777",
+      "lng": "88.8888"
+    }
+  },
+  "phone": "1-777-765-8910 x56789",
+  "website": "testapi.org",
+  "company": {
+    "name": "Cypress-API",
+    "catchPhrase": "Teste API com Cypress",
+    "bs": "Aproveitar o e-commerce em tempo real"
+  }
+}
